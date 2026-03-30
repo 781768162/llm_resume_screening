@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_013",
+  "target_jd_id": "JD_05",
+  "reason": "简历充斥PPT套话，缺失Python/Spark代码、具体算法模型及量化数据，无法验证真实技术落地能力。",
+  "result": 0,
+  "ground_truth": 0
+}

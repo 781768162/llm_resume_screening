@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_017",
+  "target_jd_id": "JD_02",
+  "reason": "技术栈严重错位，核心依赖Tuxedo/Oracle/PLSQL等银行传统架构，缺失Java高并发、Flink实时计算及大模型Agent工程化经验。",
+  "result": 0,
+  "ground_truth": 0
+}

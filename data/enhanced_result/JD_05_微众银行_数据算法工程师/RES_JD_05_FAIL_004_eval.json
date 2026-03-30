@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_004",
+  "target_jd_id": "JD_05",
+  "reason": "简历充斥架构与管理套话，缺乏具体算法落地细节、量化数据及代码贡献，疑似边缘角色。",
+  "result": 0,
+  "ground_truth": 0
+}

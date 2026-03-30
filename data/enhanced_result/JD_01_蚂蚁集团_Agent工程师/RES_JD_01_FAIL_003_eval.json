@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_003",
+  "target_jd_id": "JD_01",
+  "reason": "简历充斥PPT套话，无LLM/RAG/Agent框架等核心技术细节与代码贡献，无法证明具备JD要求的AI Agent实战能力。",
+  "result": 0,
+  "ground_truth": 0
+}

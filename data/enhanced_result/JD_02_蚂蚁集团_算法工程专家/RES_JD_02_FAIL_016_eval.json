@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_016",
+  "target_jd_id": "JD_02",
+  "reason": "简历明确自述缺乏实时流计算及大模型工程化经验，无法匹配 JD 核心痛点。",
+  "result": 0,
+  "ground_truth": 0
+}

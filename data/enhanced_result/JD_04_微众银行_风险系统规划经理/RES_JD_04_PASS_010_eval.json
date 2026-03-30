@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_PASS_010",
+  "target_jd_id": "JD_04",
+  "reason": "风控架构与实时决策经验高度匹配，但简历未体现大模型（LLM）及Agent构建经验，存在核心技能缺口。",
+  "result": 0,
+  "ground_truth": 1
+}

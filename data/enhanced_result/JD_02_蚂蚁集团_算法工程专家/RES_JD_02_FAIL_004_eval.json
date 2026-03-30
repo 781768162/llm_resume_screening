@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_004",
+  "target_jd_id": "JD_02",
+  "reason": "候选人核心为前端架构，缺失Java后端、高并发服务端及算法工程核心经验，严重错位。",
+  "result": 0,
+  "ground_truth": 0
+}

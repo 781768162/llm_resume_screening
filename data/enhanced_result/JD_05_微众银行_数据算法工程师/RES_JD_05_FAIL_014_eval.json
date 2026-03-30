@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_014",
+  "target_jd_id": "JD_05",
+  "reason": "简历侧重数据工程与规则引擎，缺乏机器学习算法建模、Spark MLLib及图计算等核心算法落地细节。",
+  "result": 0,
+  "ground_truth": 0
+}

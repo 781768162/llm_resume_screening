@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_001",
+  "target_jd_id": "JD_04",
+  "reason": "学历、年限、技能及大模型经验均符合要求，但缺乏头部互联网或消金公司线上信贷系统建设经验。",
+  "result": 1,
+  "ground_truth": 0
+}

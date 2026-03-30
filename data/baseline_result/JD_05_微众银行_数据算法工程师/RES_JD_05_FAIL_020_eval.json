@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_020",
+  "target_jd_id": "JD_05",
+  "reason": "学历满足，但简历未明确提及Python、Spark开发及机器学习框架等硬性技能。",
+  "result": 0,
+  "ground_truth": 0
+}

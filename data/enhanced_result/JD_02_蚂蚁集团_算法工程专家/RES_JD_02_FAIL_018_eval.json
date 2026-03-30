@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_018",
+  "target_jd_id": "JD_02",
+  "reason": "简历全篇为宏观架构描述，缺乏Java底层、高并发代码细节及具体量化数据，疑似空心包装。",
+  "result": 0,
+  "ground_truth": 0
+}

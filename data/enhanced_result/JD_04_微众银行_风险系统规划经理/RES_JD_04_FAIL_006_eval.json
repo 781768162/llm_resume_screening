@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_006",
+  "target_jd_id": "JD_04",
+  "reason": "风控架构与全链路经验高度匹配，但缺乏大模型（LLM）及Agent构建的实战落地细节。",
+  "result": 1,
+  "ground_truth": 0
+}

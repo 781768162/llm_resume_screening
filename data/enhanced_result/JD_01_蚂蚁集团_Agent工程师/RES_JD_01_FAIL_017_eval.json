@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_017",
+  "target_jd_id": "JD_01",
+  "reason": "简历全篇为PPT式套话，缺乏LangChain/RAG/代码等核心技术细节与量化数据，无法验证真实工程能力。",
+  "result": 0,
+  "ground_truth": 0
+}

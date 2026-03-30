@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_001",
+  "target_jd_id": "JD_02",
+  "reason": "学历硕士、经验超5年，精通Java高并发及算法工程，但缺失Flink及大模型相关经验。",
+  "result": 1,
+  "ground_truth": 0
+}

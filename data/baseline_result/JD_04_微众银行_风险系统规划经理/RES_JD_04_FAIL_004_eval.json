@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_004",
+  "target_jd_id": "JD_04",
+  "reason": "学历、年限及风控系统设计经验符合要求，但简历未提及大模型（LLM）核心原理或Agent构建经验。",
+  "result": 1,
+  "ground_truth": 0
+}

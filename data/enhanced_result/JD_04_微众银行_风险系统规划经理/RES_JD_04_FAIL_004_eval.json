@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_004",
+  "target_jd_id": "JD_04",
+  "reason": "缺失JD核心要求的LLM大模型及Agent构建经验，仅具备传统机器学习背景，无法满足智能化升级需求。",
+  "result": 0,
+  "ground_truth": 0
+}

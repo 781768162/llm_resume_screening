@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_016",
+  "target_jd_id": "JD_02",
+  "reason": "学历与年限达标，但简历明确缺乏实时计算及大模型工程经验，不满足核心加分项。",
+  "result": 1,
+  "ground_truth": 0
+}

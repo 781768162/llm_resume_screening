@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_008",
+  "target_jd_id": "JD_02",
+  "reason": "学历与年限达标，但简历未体现Java编程、高并发开发等核心硬技能。",
+  "result": 0,
+  "ground_truth": 0
+}

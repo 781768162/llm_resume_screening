@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_019",
+  "target_jd_id": "JD_05",
+  "reason": "学历符合要求，但简历描述过于空泛，未体现Python、Spark等硬性技术细节。",
+  "result": 0,
+  "ground_truth": 0
+}

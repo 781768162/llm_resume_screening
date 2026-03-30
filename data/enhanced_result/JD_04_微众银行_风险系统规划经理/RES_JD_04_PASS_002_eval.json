@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_PASS_002",
+  "target_jd_id": "JD_04",
+  "reason": "候选人具备亿级高并发风控架构与模型部署经验，但简历未体现大模型（LLM）及Agent构建核心能力，存在关键技能缺失。",
+  "result": 0,
+  "ground_truth": 1
+}

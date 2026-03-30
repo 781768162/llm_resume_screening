@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_015",
+  "target_jd_id": "JD_03",
+  "reason": "学历背景与风控经验高度匹配，但过度依赖传统统计方法，缺乏JD要求的机器学习及AI应用实战深度。",
+  "result": 1,
+  "ground_truth": 0
+}

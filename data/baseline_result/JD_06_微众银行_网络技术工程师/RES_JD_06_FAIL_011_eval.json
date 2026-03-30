@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_06_FAIL_011",
+  "target_jd_id": "JD_06",
+  "reason": "缺乏STP/BGP等协议及Python编程等硬性技术细节，仅体现管理经验。",
+  "result": 0,
+  "ground_truth": 0
+}

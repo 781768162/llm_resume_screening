@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_016",
+  "target_jd_id": "JD_03",
+  "reason": "学历与年限达标，但候选人侧重底层算法架构，缺乏信贷策略、额度定价及贷后管理等核心业务经验。",
+  "result": 0,
+  "ground_truth": 0
+}

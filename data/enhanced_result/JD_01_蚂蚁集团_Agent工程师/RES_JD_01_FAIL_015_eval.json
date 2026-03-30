@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_015",
+  "target_jd_id": "JD_01",
+  "reason": "简历充斥宏观战略套话，无具体代码/架构落地细节；明确承认未深入底层算法微调，缺乏核心工程实战能力。",
+  "result": 0,
+  "ground_truth": 0
+}

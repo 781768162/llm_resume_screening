@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_019",
+  "target_jd_id": "JD_02",
+  "reason": "技术栈严重错位，缺失Java高并发、Flink及大模型底层框架核心经验，仅具备传统银行架构背景。",
+  "result": 0,
+  "ground_truth": 0
+}

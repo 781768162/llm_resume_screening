@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_007",
+  "target_jd_id": "JD_05",
+  "reason": "候选人深耕CV领域，简历明确承认缺乏Spark分布式计算及金融结构化数据实战经验，与岗位核心需求错位。",
+  "result": 0,
+  "ground_truth": 0
+}

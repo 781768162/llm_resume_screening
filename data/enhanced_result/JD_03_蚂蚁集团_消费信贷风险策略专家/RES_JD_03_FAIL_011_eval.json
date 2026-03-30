@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_011",
+  "target_jd_id": "JD_03",
+  "reason": "简历全篇为宏观管理套话，缺乏具体建模算法、SQL/SAS实战及量化数据支撑，无法验证核心策略能力。",
+  "result": 0,
+  "ground_truth": 0
+}

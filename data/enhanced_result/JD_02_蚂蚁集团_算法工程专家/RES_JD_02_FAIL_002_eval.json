@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_002",
+  "target_jd_id": "JD_02",
+  "reason": "候选人核心为前端架构，缺失 JD 要求的 Java 后端、高并发支付核心及算法工程落地经验，业务场景严重错位。",
+  "result": 0,
+  "ground_truth": 0
+}

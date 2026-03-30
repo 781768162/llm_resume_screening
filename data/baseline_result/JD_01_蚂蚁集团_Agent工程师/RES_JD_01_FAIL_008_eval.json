@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_008",
+  "target_jd_id": "JD_01",
+  "reason": "工作年限不足3年，且简历未体现LangChain等AI Agent框架及LLM实战经验。",
+  "result": 0,
+  "ground_truth": 0
+}

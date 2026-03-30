@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_015",
+  "target_jd_id": "JD_02",
+  "reason": "Java 高并发与架构能力匹配，但缺乏搜索推荐、运筹决策及大模型 Agent 核心落地经验，仅停留在验证阶段。",
+  "result": 0,
+  "ground_truth": 0
+}

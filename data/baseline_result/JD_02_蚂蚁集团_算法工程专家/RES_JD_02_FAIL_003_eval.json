@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_003",
+  "target_jd_id": "JD_02",
+  "reason": "学历硕士符合，但简历未明确提及Java基础、高并发开发及Flink等核心硬性技能要求。",
+  "result": 0,
+  "ground_truth": 0
+}

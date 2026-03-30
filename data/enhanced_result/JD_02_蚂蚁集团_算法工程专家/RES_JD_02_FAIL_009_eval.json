@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_009",
+  "target_jd_id": "JD_02",
+  "reason": "Java 高并发与 Flink 架构能力匹配，但缺乏支付核心算法工程、搜推及大模型 Agent 落地经验。",
+  "result": 1,
+  "ground_truth": 0
+}

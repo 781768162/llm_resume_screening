@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_009",
+  "target_jd_id": "JD_04",
+  "reason": "学历与年限达标，但简历侧重数据架构与开发，未明确体现风险系统整体规划及策略部署经验。",
+  "result": 1,
+  "ground_truth": 0
+}

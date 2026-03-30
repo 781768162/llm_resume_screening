@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_004",
+  "target_jd_id": "JD_03",
+  "reason": "简历充斥PPT套话，缺失SQL/SAS/R等核心工具细节、量化模型指标及具体策略落地数据，无法验证真实技术深度。",
+  "result": 0,
+  "ground_truth": 0
+}

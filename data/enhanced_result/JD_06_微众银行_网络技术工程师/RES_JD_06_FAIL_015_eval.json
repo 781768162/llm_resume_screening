@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_06_FAIL_015",
+  "target_jd_id": "JD_06",
+  "reason": "简历充斥战略套话，缺乏协议细节、代码实现及量化数据，无法验证真实技术深度。",
+  "result": 0,
+  "ground_truth": 0
+}

@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_006",
+  "target_jd_id": "JD_02",
+  "reason": "候选人具备高并发架构、Flink实时计算及大模型应用落地经验，核心能力与支付算法工程岗位高度匹配。",
+  "result": 1,
+  "ground_truth": 0
+}

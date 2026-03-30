@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_019",
+  "target_jd_id": "JD_02",
+  "reason": "学历硕士符合，但简历未体现Java编程基础及高并发开发经验，与硬性要求不符。",
+  "result": 0,
+  "ground_truth": 0
+}

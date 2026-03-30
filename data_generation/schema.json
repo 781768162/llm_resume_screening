@@ -1,0 +1,38 @@
+{
+    "name": "resume_json",
+    "description": "Generated resume data matching the required schema",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "resume_id": {"type": "string"},
+            "target_jd_id": {"type": "string"},
+            "ground_truth": {"type": "integer"},
+            "ground_truth_reason": {"type": "string"},
+            "education_experience": {"type": "string"},
+            "work_experience": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "company": {"type": "string"},
+                        "title": {"type": "string"},
+                        "duration": {"type": "string"},
+                        "description": {"type": "string"}
+                    },
+                    "required": ["company", "title", "duration", "description"],
+                    "additionalProperties": false
+                }
+            }
+        },
+        "required": [
+            "resume_id",
+            "target_jd_id",
+            "ground_truth",
+            "ground_truth_reason",
+            "education_experience",
+            "work_experience"
+        ],
+        "additionalProperties": false
+    },
+    "strict": true
+}

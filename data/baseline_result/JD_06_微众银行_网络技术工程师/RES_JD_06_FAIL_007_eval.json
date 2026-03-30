@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_06_FAIL_007",
+  "target_jd_id": "JD_06",
+  "reason": "满足3年金融网络经验及协议要求，但Shell脚本仅用于运维，未体现Python自动化开发能力。",
+  "result": 1,
+  "ground_truth": 0
+}

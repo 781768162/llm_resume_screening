@@ -1,0 +1,102 @@
+{
+  "by_jd": {
+    "JD_01_蚂蚁集团_Agent工程师": {
+      "total": 40,
+      "tp": 20,
+      "tn": 18,
+      "fp": 2,
+      "fn": 0,
+      "accuracy": 0.95,
+      "recall": 1.0,
+      "precision": 0.9090909090909091,
+      "f1_score": 0.9523809523809523,
+      "specificity": 0.9,
+      "false_positive_rate": 0.1,
+      "invalid_count": 0
+    },
+    "JD_02_蚂蚁集团_算法工程专家": {
+      "total": 40,
+      "tp": 20,
+      "tn": 15,
+      "fp": 5,
+      "fn": 0,
+      "accuracy": 0.875,
+      "recall": 1.0,
+      "precision": 0.8,
+      "f1_score": 0.888888888888889,
+      "specificity": 0.75,
+      "false_positive_rate": 0.25,
+      "invalid_count": 0
+    },
+    "JD_03_蚂蚁集团_消费信贷风险策略专家": {
+      "total": 40,
+      "tp": 20,
+      "tn": 17,
+      "fp": 3,
+      "fn": 0,
+      "accuracy": 0.925,
+      "recall": 1.0,
+      "precision": 0.8695652173913043,
+      "f1_score": 0.9302325581395349,
+      "specificity": 0.85,
+      "false_positive_rate": 0.15,
+      "invalid_count": 0
+    },
+    "JD_04_微众银行_风险系统规划经理": {
+      "total": 40,
+      "tp": 17,
+      "tn": 11,
+      "fp": 9,
+      "fn": 3,
+      "accuracy": 0.7,
+      "recall": 0.85,
+      "precision": 0.6538461538461539,
+      "f1_score": 0.7391304347826088,
+      "specificity": 0.55,
+      "false_positive_rate": 0.45,
+      "invalid_count": 0
+    },
+    "JD_05_微众银行_数据算法工程师": {
+      "total": 40,
+      "tp": 20,
+      "tn": 17,
+      "fp": 3,
+      "fn": 0,
+      "accuracy": 0.925,
+      "recall": 1.0,
+      "precision": 0.8695652173913043,
+      "f1_score": 0.9302325581395349,
+      "specificity": 0.85,
+      "false_positive_rate": 0.15,
+      "invalid_count": 0
+    },
+    "JD_06_微众银行_网络技术工程师": {
+      "total": 40,
+      "tp": 20,
+      "tn": 14,
+      "fp": 6,
+      "fn": 0,
+      "accuracy": 0.85,
+      "recall": 1.0,
+      "precision": 0.7692307692307693,
+      "f1_score": 0.8695652173913044,
+      "specificity": 0.7,
+      "false_positive_rate": 0.3,
+      "invalid_count": 0
+    }
+  },
+  "overall": {
+    "total": 240,
+    "tp": 117,
+    "tn": 92,
+    "fp": 28,
+    "fn": 3,
+    "accuracy": 0.8708333333333333,
+    "recall": 0.975,
+    "precision": 0.8068965517241379,
+    "f1_score": 0.8830188679245283,
+    "specificity": 0.7666666666666667,
+    "false_positive_rate": 0.23333333333333334,
+    "invalid_count": 0
+  }
+}

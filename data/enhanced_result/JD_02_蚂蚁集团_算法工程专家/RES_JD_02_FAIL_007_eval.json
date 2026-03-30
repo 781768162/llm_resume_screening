@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_007",
+  "target_jd_id": "JD_02",
+  "reason": "简历全篇为战略套话，缺失Java底层、高并发代码及大模型具体落地细节，无法验证真实技术深度。",
+  "result": 0,
+  "ground_truth": 0
+}

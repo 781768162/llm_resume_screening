@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_06_FAIL_017",
+  "target_jd_id": "JD_06",
+  "reason": "年限5年达标，精通协议与厂商设备。但自动化技能仅提及Perl，缺失JD要求的Python/Shell。",
+  "result": 0,
+  "ground_truth": 0
+}

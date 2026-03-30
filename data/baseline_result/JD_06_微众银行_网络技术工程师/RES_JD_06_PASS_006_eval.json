@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_06_PASS_006",
+  "target_jd_id": "JD_06",
+  "reason": "学历、年限及核心技能（VXLAN/BGP/Python）均匹配，但厂商设备经验描述较少。",
+  "result": 1,
+  "ground_truth": 1
+}

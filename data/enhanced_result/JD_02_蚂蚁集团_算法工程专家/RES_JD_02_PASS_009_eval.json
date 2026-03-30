@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_PASS_009",
+  "target_jd_id": "JD_02",
+  "reason": "候选人具备亿级支付核心架构、实时特征工程及大模型 Agent 落地经验，完美匹配 JD 核心痛点。虽未显式提及 Flink/Java 细节，但通过自研调度与内存网格技术证明底层能力极强，属高匹配度人才。",
+  "result": 1,
+  "ground_truth": 1
+}

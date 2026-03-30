@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_PASS_012",
+  "target_jd_id": "JD_01",
+  "reason": "学历、年限、支付及RAG经验匹配，但简历未提及LangChain/LangGraph等核心框架技能。",
+  "result": 0,
+  "ground_truth": 1
+}

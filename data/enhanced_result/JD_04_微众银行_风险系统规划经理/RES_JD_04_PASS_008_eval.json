@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_PASS_008",
+  "target_jd_id": "JD_04",
+  "reason": "风控架构与全链路落地能力极强，但简历未体现大模型（LLM）及Agent构建经验，存在关键技能缺失。",
+  "result": 0,
+  "ground_truth": 1
+}

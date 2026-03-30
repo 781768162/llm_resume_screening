@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_011",
+  "target_jd_id": "JD_05",
+  "reason": "技术栈高度匹配且落地成果显著，但简历明确自述缺乏金融风控与信贷核心业务经验，存在业务场景错位风险。",
+  "result": 1,
+  "ground_truth": 0
+}

@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_06_FAIL_017",
+  "target_jd_id": "JD_06",
+  "reason": "金融网络架构与协议匹配度高，但自动化能力仅停留在Perl/SNMP传统运维，缺乏JD核心要求的Python/AI Ops及容器网络经验。",
+  "result": 0,
+  "ground_truth": 0
+}

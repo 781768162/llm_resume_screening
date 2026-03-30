@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_PASS_003",
+  "target_jd_id": "JD_02",
+  "reason": "学历硕士符合，但简历未明确提及Java编程基础及Spring等框架经验，不满足硬性要求。",
+  "result": 0,
+  "ground_truth": 1
+}

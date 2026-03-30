@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_PASS_013",
+  "target_jd_id": "JD_02",
+  "reason": "候选人具备支付核心场景（资金路由、风控）的高并发架构经验，且在大模型Agent编排与Flink实时计算方面深度匹配JD需求。",
+  "result": 1,
+  "ground_truth": 1
+}

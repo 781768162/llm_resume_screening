@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_001",
+  "target_jd_id": "JD_05",
+  "reason": "简历全篇为宏观管理套话，缺失Python/Spark代码、特征工程细节及量化算法指标，无法验证核心硬技能。",
+  "result": 0,
+  "ground_truth": 0
+}

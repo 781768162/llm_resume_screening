@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_001",
+  "target_jd_id": "JD_03",
+  "reason": "学历与年限匹配，但简历全篇为宏观战略套话，缺失SQL/SAS/R等核心工具及具体建模细节，无法验证真实技术落地能力。",
+  "result": 0,
+  "ground_truth": 0
+}

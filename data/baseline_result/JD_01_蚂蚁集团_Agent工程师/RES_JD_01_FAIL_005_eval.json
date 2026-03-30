@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_005",
+  "target_jd_id": "JD_01",
+  "reason": "工作年限仅2年，不满足3年以上要求；且未体现Python/Java等核心语言及LangChain等框架经验。",
+  "result": 0,
+  "ground_truth": 0
+}

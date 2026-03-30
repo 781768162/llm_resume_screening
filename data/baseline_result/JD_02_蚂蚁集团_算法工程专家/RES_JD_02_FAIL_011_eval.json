@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_011",
+  "target_jd_id": "JD_02",
+  "reason": "学历硕士、年限超5年，但简历明确未涉及支付核心场景及金融交易链路经验。",
+  "result": 1,
+  "ground_truth": 0
+}

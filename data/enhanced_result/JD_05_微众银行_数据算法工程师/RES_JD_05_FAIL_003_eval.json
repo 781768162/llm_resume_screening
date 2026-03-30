@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_003",
+  "target_jd_id": "JD_05",
+  "reason": "学历专业匹配，但核心架构缺失Spark/图计算实战，亿级节点单机处理属技术降级，不符合海量数据工程要求。",
+  "result": 0,
+  "ground_truth": 0
+}

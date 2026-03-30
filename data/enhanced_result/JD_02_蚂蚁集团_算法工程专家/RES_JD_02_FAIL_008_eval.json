@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_008",
+  "target_jd_id": "JD_02",
+  "reason": "简历全为咨询式宏观描述，无代码、架构细节及量化数据，无法验证Java/算法工程实战能力，判定为空心包装。",
+  "result": 0,
+  "ground_truth": 0
+}

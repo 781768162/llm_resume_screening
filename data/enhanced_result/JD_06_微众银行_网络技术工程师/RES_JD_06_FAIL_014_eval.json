@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_06_FAIL_014",
+  "target_jd_id": "JD_06",
+  "reason": "简历全篇堆砌“顶层设计”、“标杆形象”等PPT套话，缺乏具体协议调优参数、故障处理案例及量化数据，无法验证真实技术深度。",
+  "result": 0,
+  "ground_truth": 0
+}

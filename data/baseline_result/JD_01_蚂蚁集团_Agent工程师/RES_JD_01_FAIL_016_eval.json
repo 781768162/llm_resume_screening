@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_016",
+  "target_jd_id": "JD_01",
+  "reason": "学历符合，但工作年限仅约1年（2023至今），不满足3年以上经验要求。",
+  "result": 0,
+  "ground_truth": 0
+}

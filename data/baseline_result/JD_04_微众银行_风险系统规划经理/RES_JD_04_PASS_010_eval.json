@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_PASS_010",
+  "target_jd_id": "JD_04",
+  "reason": "学历、年限及风控系统设计经验均达标，但简历未提及大模型（LLM）相关技能。",
+  "result": 0,
+  "ground_truth": 1
+}

@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_006",
+  "target_jd_id": "JD_04",
+  "reason": "学历与经验匹配，但简历未明确提及掌握大模型核心原理及Agent构建经验。",
+  "result": 0,
+  "ground_truth": 0
+}

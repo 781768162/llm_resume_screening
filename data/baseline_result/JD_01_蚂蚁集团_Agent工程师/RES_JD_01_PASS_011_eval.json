@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_PASS_011",
+  "target_jd_id": "JD_01",
+  "reason": "学历本科符合，但工作年限仅3年（2020至今），未达3年以上要求。",
+  "result": 0,
+  "ground_truth": 1
+}

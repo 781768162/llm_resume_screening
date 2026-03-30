@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_014",
+  "target_jd_id": "JD_04",
+  "reason": "候选人聚焦对公信贷与银行体系，缺乏微粒贷等线上零售信贷风控经验，且无LLM/Agent核心代码落地细节。",
+  "result": 0,
+  "ground_truth": 0
+}

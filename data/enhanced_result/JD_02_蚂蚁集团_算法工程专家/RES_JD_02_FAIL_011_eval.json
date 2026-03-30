@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_011",
+  "target_jd_id": "JD_02",
+  "reason": "虽具备搜推与大模型工程能力，但简历明确自述无金融交易及支付核心场景经验，无法胜任强一致性要求的支付业务。",
+  "result": 0,
+  "ground_truth": 0
+}

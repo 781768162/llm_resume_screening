@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_017",
+  "target_jd_id": "JD_05",
+  "reason": "核心技能栈严重错位，缺乏Spark/Python及海量数据处理经验，仅掌握传统统计与SAS工具。",
+  "result": 0,
+  "ground_truth": 0
+}

@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_005",
+  "target_jd_id": "JD_01",
+  "reason": "简历全篇为宏观管理套话，缺失LLM、RAG、LangChain等核心Agent技术栈的具体落地细节与代码贡献。",
+  "result": 0,
+  "ground_truth": 0
+}

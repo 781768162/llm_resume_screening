@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_011",
+  "target_jd_id": "JD_04",
+  "reason": "学历专业符合，但缺乏Java/Python经验及大模型核心原理掌握，未达硬性要求。",
+  "result": 0,
+  "ground_truth": 0
+}

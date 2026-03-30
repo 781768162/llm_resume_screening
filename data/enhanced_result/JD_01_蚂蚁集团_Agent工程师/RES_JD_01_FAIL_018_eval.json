@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_018",
+  "target_jd_id": "JD_01",
+  "reason": "简历全篇堆砌“智能体”、“多智能体协同”等概念，但缺乏LangChain/LangGraph等核心框架实战细节及具体代码贡献，疑似将传统NLP项目包装为Agent，存在严重空心化风险。",
+  "result": 0,
+  "ground_truth": 0
+}

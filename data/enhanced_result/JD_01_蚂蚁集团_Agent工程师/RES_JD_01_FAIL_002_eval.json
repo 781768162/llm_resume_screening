@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_002",
+  "target_jd_id": "JD_01",
+  "reason": "候选人深耕传统银行支付架构，缺乏LLM、Agent框架及RAG等核心AI技术实战经验，无法胜任智能体研发。",
+  "result": 0,
+  "ground_truth": 0
+}

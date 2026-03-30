@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_006",
+  "target_jd_id": "JD_01",
+  "reason": "候选人核心能力局限于规则引擎与统计模型，缺乏LLM、Agent自主规划及RAG等生成式AI核心技术实战经验。",
+  "result": 0,
+  "ground_truth": 0
+}

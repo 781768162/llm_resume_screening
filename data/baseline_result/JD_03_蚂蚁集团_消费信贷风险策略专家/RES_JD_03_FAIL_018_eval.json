@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_018",
+  "target_jd_id": "JD_03",
+  "reason": "学历硕士符合，但工作年限约5年虽达标，缺乏头部互金或消费金融经验。",
+  "result": 1,
+  "ground_truth": 0
+}

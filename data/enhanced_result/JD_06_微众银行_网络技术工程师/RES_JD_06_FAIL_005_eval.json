@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_06_FAIL_005",
+  "target_jd_id": "JD_06",
+  "reason": "简历全为宏观战略套话，缺乏具体协议（BGP/ISIS等）落地细节、量化数据及代码贡献，疑似边缘角色。",
+  "result": 0,
+  "ground_truth": 0
+}

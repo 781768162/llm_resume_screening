@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_002",
+  "target_jd_id": "JD_02",
+  "reason": "候选人主攻前端架构，缺乏Java高并发开发及算法工程核心经验，不匹配岗位硬性要求。",
+  "result": 0,
+  "ground_truth": 0
+}

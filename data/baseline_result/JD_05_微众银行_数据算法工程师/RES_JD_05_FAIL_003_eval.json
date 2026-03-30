@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_003",
+  "target_jd_id": "JD_05",
+  "reason": "学历硕士符合，精通Python及机器学习，但简历未明确提及Spark开发经验。",
+  "result": 1,
+  "ground_truth": 0
+}

@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_PASS_011",
+  "target_jd_id": "JD_04",
+  "reason": "候选人具备头部消金风控架构经验，虽未显式提及LLM Agent，但预训练模型应用与策略自动化基础高度契合。",
+  "result": 1,
+  "ground_truth": 1
+}

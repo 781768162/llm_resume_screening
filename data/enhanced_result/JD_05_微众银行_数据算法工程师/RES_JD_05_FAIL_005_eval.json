@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_005",
+  "target_jd_id": "JD_05",
+  "reason": "候选人核心能力为数据工程与数仓建设，简历未体现机器学习算法建模、特征工程及推荐/图计算等算法岗核心实战经验。",
+  "result": 0,
+  "ground_truth": 0
+}

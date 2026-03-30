@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_016",
+  "target_jd_id": "JD_05",
+  "reason": "技术栈高度匹配且具备亿级实战经验，但简历明确自述缺乏金融风控与监管合规场景，存在业务领域错位风险。",
+  "result": 1,
+  "ground_truth": 0
+}

@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_018",
+  "target_jd_id": "JD_05",
+  "reason": "简历明确声明未涉及底层算法代码编写，缺乏Spark/ML框架实战经验，无法胜任算法工程师核心职责。",
+  "result": 0,
+  "ground_truth": 0
+}

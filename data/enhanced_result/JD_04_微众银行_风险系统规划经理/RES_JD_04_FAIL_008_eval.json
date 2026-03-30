@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_04_FAIL_008",
+  "target_jd_id": "JD_04",
+  "reason": "学历背景完美匹配，具备风控中台架构与LLM Agent落地经验，但缺乏一线信贷系统从0到1的实战交付细节，存在咨询顾问式“规划”而非“实施”风险。",
+  "result": 1,
+  "ground_truth": 0
+}

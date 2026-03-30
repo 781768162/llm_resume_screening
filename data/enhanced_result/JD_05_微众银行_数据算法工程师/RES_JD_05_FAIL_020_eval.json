@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_020",
+  "target_jd_id": "JD_05",
+  "reason": "简历侧重数据治理与架构管理，缺乏算法建模、Spark/MLLib代码落地及核心算法贡献细节。",
+  "result": 0,
+  "ground_truth": 0
+}

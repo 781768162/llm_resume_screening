@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_02_FAIL_001",
+  "target_jd_id": "JD_02",
+  "reason": "Java高并发与架构能力极强，但缺失Flink实时计算、搜索推荐工程及大模型Agent核心落地经验。",
+  "result": 0,
+  "ground_truth": 0
+}

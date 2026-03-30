@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_019",
+  "target_jd_id": "JD_05",
+  "reason": "简历全篇为战略套话，无具体技术栈、算法模型及量化数据支撑，无法验证核心工程落地能力。",
+  "result": 0,
+  "ground_truth": 0
+}

@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_05_FAIL_008",
+  "target_jd_id": "JD_05",
+  "reason": "硕士学历符合要求，具备Python/Spark及机器学习经验，且有推荐算法、图计算等优先项经历。",
+  "result": 1,
+  "ground_truth": 0
+}

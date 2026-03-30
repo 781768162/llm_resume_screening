@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_009",
+  "target_jd_id": "JD_01",
+  "reason": "简历充斥“赋能、闭环、抓手”等空洞套话，缺乏具体技术栈（如LangChain/RAG/向量库）及代码架构细节，无法验证真实能力。",
+  "result": 0,
+  "ground_truth": 0
+}

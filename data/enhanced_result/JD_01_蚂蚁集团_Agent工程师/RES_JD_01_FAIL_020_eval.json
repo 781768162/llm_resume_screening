@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_01_FAIL_020",
+  "target_jd_id": "JD_01",
+  "reason": "候选人具备 LangGraph 多智能体、RAG 及高并发架构核心经验，虽无直接支付背景，但供应链闭环与营销场景高度契合 Agent 落地能力。",
+  "result": 1,
+  "ground_truth": 0
+}

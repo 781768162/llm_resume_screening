@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_008",
+  "target_jd_id": "JD_03",
+  "reason": "学历年限符合，但候选人侧重算法工程与反欺诈，缺乏信贷策略、额度定价及贷后管理等核心业务经验。",
+  "result": 0,
+  "ground_truth": 0
+}

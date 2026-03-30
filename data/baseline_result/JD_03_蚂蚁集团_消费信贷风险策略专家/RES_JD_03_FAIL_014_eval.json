@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_014",
+  "target_jd_id": "JD_03",
+  "reason": "学历与年限符合，但无信贷风控、建模及策略经验，不匹配。",
+  "result": 0,
+  "ground_truth": 0
+}

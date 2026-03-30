@@ -1,0 +1,7 @@
+{
+  "resume_id": "RES_JD_03_FAIL_005",
+  "target_jd_id": "JD_03",
+  "reason": "简历充斥架构与工程套话，缺失信贷策略核心细节（额度/定价/A/B测试），疑似技术岗伪装策略专家。",
+  "result": 0,
+  "ground_truth": 0
+}
