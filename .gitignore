@@ -1,4 +1,5 @@
 .env
 .github
-ref_files/*
+ref_files
+cv_data/*
 __pycache__
